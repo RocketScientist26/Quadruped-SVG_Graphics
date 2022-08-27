@@ -27,29 +27,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.88671875"
-     inkscape:cx="255.43612"
-     inkscape:cy="256"
+     inkscape:zoom="0.62700484"
+     inkscape:cx="227.27097"
+     inkscape:cy="159.4884"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g34776"
+     inkscape:current-layer="layer1"
      units="px"
-     width="1920px" />
+     width="1920px"
+     showguides="true" />
   <defs
      id="defs5502">
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask35830">
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 12.009086,679.98128 H 280.5865 c 33.7132,0 60.85416,27.14096 60.85416,60.85417 v 268.57735 c 0,33.7133 -27.14096,60.8542 -60.85416,60.8542 H 12.009086 c -33.713209,0 -60.854167,-27.1409 -60.854167,-60.8542 V 740.83545 c 0,-33.71321 27.140958,-60.85417 60.854167,-60.85417 z"
-         id="path35832"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssssssss" />
-    </mask>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient11379-9-0"
@@ -294,10 +285,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter10627"
-       x="-0.037463652"
-       width="1.0749273"
-       y="-0.32316423"
-       height="1.6463285">
+       x="-0.04491248"
+       width="1.089825"
+       y="-0.31227637"
+       height="1.6245527">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.3770477"
@@ -307,10 +298,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter10639"
-       x="-0.016742846"
-       width="1.0334857"
-       y="-0.18850164"
-       height="1.3770033">
+       x="-0.026051827"
+       width="1.0521037"
+       y="-0.18113829"
+       height="1.3622766">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.68852386"
@@ -320,15 +311,26 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter10651"
-       x="-0.0093659137"
-       width="1.0187318"
-       y="-0.080791063"
-       height="1.1615821">
+       x="-0.011228121"
+       width="1.0224562"
+       y="-0.078069099"
+       height="1.1561382">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.34426193"
          id="feGaussianBlur10653" />
     </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3601">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:11.0674;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3603"
+         width="390.28571"
+         height="390.28571"
+         x="-48.845081"
+         y="679.98126" />
+    </mask>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -336,7 +338,7 @@
      id="layer1">
     <g
        id="g35820"
-       mask="url(#mask35830)"
+       mask="url(#mask3601)"
        transform="matrix(0.34709612,0,0,0.34709614,16.953938,-236.01888)">
       <path
          style="opacity:1;fill:#004974;fill-opacity:1;stroke:none;stroke-width:0.904505;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

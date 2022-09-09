@@ -7,9 +7,9 @@
    viewBox="0 0 507.99998 285.75001"
    version="1.1"
    id="svg5505"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="Android app page - Connect.svg"
-   inkscape:export-filename="C:\Direct\Gaga\GitTmp\Quadruped-SVG_Graphics\Previews\Android app page - Connect.png"
+   inkscape:export-filename="Previews\Android app page - Connect.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,11 +27,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.28015949"
-     inkscape:cx="1022.6318"
-     inkscape:cy="806.68336"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:zoom="0.56031898"
+     inkscape:cx="965.52146"
+     inkscape:cy="555.04099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -45,7 +45,9 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs5502">
     <radialGradient
@@ -262,10 +264,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter11233"
-       x="-0.022315785"
-       width="1.0446316"
-       y="-0.19632829"
-       height="1.3926566">
+       x="-0.023722956"
+       width="1.0474459"
+       y="-0.19655717"
+       height="1.3931143">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.43635602"
@@ -314,10 +316,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter10627"
-       x="-0.037463652"
-       width="1.0749273"
-       y="-0.32316423"
-       height="1.6463285">
+       x="-0.04491248"
+       width="1.089825"
+       y="-0.31227637"
+       height="1.6245527">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.3770477"
@@ -327,10 +329,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter10639"
-       x="-0.021731077"
-       width="1.0434622"
-       y="-0.18745388"
-       height="1.3749078">
+       x="-0.026051827"
+       width="1.0521037"
+       y="-0.18113829"
+       height="1.3622766">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.68852386"
@@ -340,10 +342,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter10651"
-       x="-0.0093659137"
-       width="1.0187318"
-       y="-0.080791063"
-       height="1.1615821">
+       x="-0.011228121"
+       width="1.0224562"
+       y="-0.078069099"
+       height="1.1561382">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.34426193"
@@ -353,10 +355,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter11233-2"
-       x="-0.037987441"
-       width="1.0759749"
-       y="-0.20140465"
-       height="1.4028093">
+       x="-0.040088358"
+       width="1.0801767"
+       y="-0.20726873"
+       height="1.4145375">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.43635602"
@@ -379,10 +381,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter11233-2-3-2"
-       x="-0.023401908"
-       width="1.0468038"
-       y="-0.19632829"
-       height="1.3926566">
+       x="-0.024577601"
+       width="1.0491552"
+       y="-0.19757825"
+       height="1.3951565">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.43635602"
@@ -495,10 +497,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter11233-2-3-2-8"
-       x="-0.02468687"
-       width="1.0493737"
-       y="-0.19632829"
-       height="1.3926566">
+       x="-0.026126604"
+       width="1.0522532"
+       y="-0.19757825"
+       height="1.3951565">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.43635602"
@@ -3802,7 +3804,7 @@
              id="tspan7233-2-9-1-0"
              x="188.27637"
              y="-298.04254"
-             style="fill:#0e95ff;fill-opacity:1;stroke:#0e95ff;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">User manual</tspan></text>
+             style="fill:#0e95ff;fill-opacity:1;stroke:#0e95ff;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Project page</tspan></text>
         <text
            id="text10831-9-7-1-2"
            y="-395.1004"
@@ -3814,7 +3816,7 @@
              y="-395.1004"
              x="319.45126"
              id="tspan10829-5-4-4-9"
-             sodipodi:role="line">User manual</tspan></text>
+             sodipodi:role="line">Project page</tspan></text>
         <text
            transform="scale(0.99851312,1.0014891)"
            xml:space="preserve"
@@ -3826,42 +3828,34 @@
              id="tspan10839-0-3-6-47"
              x="319.45126"
              y="-395.1004"
-             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583">User manual</tspan></text>
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Project page</tspan></text>
       </g>
     </g>
     <g
        id="g36484"
-       transform="matrix(0.71180753,0,0,0.71180753,102.94991,91.702963)">
+       transform="matrix(0.71180753,0,0,0.71180753,102.94991,96.99463)">
       <text
          id="text10841-4-5-2-6"
-         y="237.32802"
+         y="232.13188"
          x="215.60841"
          style="font-style:normal;font-weight:normal;font-size:8.62286px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264584"
          xml:space="preserve"
          transform="scale(0.99851312,1.0014891)"><tspan
            id="tspan3328-8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76113px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264584"
-           y="237.32802"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05558px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264584"
+           y="232.13188"
            x="215.60841"
-           sodipodi:role="line"><tspan
-             id="tspan42789"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05558px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264584">Quadruped v1.0 - 2022</tspan></tspan><tspan
+           sodipodi:role="line">Quadruped v1.1 - 2022</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76113px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264584"
-           y="248.1066"
+           y="242.91046"
            x="215.60841"
            sodipodi:role="line"
-           id="tspan42791">Copyright © Giorgi Ivanishvili - www.Rocket-Scientist.Me</tspan><tspan
-           id="tspan5462-6"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.40835px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264584"
-           y="258.88516"
+           id="tspan1707">Made by Giorgi Ivanishvili - www.Rocket-Scientist.Me</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76113px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264584"
+           y="253.68903"
            x="215.60841"
-           sodipodi:role="line">Click HERE for complete credits</tspan></text>
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="rect5464-6"
-         d="m 173.91088,261.53997 h 19.11029"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           sodipodi:role="line"
+           id="tspan1711">Open source under MIT licence</tspan></text>
     </g>
   </g>
 </svg>
